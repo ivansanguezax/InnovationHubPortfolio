@@ -1,7 +1,7 @@
 # 🚀 Innovation Hub Portfolio
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dhicmjsel/image/upload/v1722146864/wqhha29fyz55z9yn255x.png" alt="Innovation Hub Portfolio" width="500"/>
+  <img src="https://res.cloudinary.com/dhicmjsel/image/upload/v1722148088/ypofh8mkjcqmvivh7eor.png" alt="Innovation Hub Portfolio" width="500"/>
 </p>
 
 ## 📋 Overview
