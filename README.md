@@ -4,8 +4,6 @@
   <img src="https://res.cloudinary.com/dhicmjsel/image/upload/v1722146864/wqhha29fyz55z9yn255x.png" alt="Innovation Hub Portfolio" width="500"/>
 </p>
 
-Showcasing groundbreaking projects and tech solutions.
-
 ## 📋 Overview
 
 The `Innovation Hub Portfolio` is a comprehensive showcase of innovative projects and creative tech solutions. This portfolio is built to highlight the skills, experience, and accomplishments in the tech field, using modern web technologies to ensure a seamless and visually appealing experience for users. Key features include:
